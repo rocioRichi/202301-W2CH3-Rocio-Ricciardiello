@@ -4,10 +4,6 @@ sonar-project.properties
 
 file
 
-Create a configuration file in the root directory of the project and name it
-
-sonar-project.properties
-
 sonar.projectKey=rocioRichi_202301-W2CH3-Rocio-Ricciardiello
 sonar.organization=rociorichi
 
@@ -20,17 +16,3 @@ sonar.organization=rociorichi
 
 # Encoding of the source code. Default is default system encoding
 #sonar.sourceEncoding=UTF-8
-
-And you are done!
-
-You should see the page refresh itself in a few moments with your analysis results if everything runs successfully.
-
-You’ll get a first analysis of your default branch
-Each new push you make on a branch or Pull Request will automatically trigger a new analysis
-
-    Each new Pull Request you create will automatically be analyzed
-
-Check these useful links while you wait:
-What is a Quality Gate?
-
-Configure your Quality Profiles
