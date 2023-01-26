@@ -9,4 +9,5 @@ export const longMeasure = (Array) => {
 
 export const fakePush = (Array, something) => {
   Array[longMeasure(Array)] = something;
+  return Array;
 };
