@@ -1,9 +1,3 @@
-Create a
-
-sonar-project.properties
-
-file
-
 sonar.projectKey=rocioRichi_202301-W2CH3-Rocio-Ricciardiello
 sonar.organization=rociorichi
 
